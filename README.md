@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebasg2399&label=Profile%20views&color=0e75b6&style=flat" alt="sebasg2399" /> </p>
 
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/sebasg2399/PortfolioReact)
+- 🔭 I’m currently working on [Alegra!](https://app.alegra.com/)
+I'm part of this awesome team since 01/2023.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
